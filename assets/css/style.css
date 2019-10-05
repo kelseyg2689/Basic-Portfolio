@@ -1,7 +1,6 @@
 html{
     background-color: white;
-    width: 960px;
-}
+    }
 
 ul {
     margin-right: 100px;
@@ -67,7 +66,7 @@ h2 {
 
 .container2{
     width: 800px;
-    height: 600px;
+    height: 800px;
     margin-left: 100px;
     border-color: gray;
     border-style: solid;
@@ -113,6 +112,70 @@ input[type=text] {
       margin-left: 20px;
       padding: 10px;
   }
-#images {
-    float: right;
+
+.container3, .container4, .container5, .contaner6, .container7 {
+    float:left
+}
+
+.container3 .btn1{
+    position: relative;
+    left: -200px;
+    bottom: 0px;
+    background-color: #4aaaa5;
+    color: white;
+    font-size: 16px;
+    padding: 12px 24px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+}
+.container4 .btn2{
+    position: relative;
+    left: -200px;
+    bottom: 0px;
+    background-color: #4aaaa5;
+    color: white;
+    font-size: 16px;
+    padding: 12px 24px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+}
+.container5 .btn3{
+    position: relative;
+    left: -200px;
+    bottom: 0px;
+    background-color: #4aaaa5;
+    color: white;
+    font-size: 16px;
+    padding: 12px 24px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+.container6 .btn4{
+    position: relative;
+    left: -320px;
+    top: 210px;
+    background-color: #4aaaa5;
+    color: white;
+    font-size: 16px;
+    padding: 12px 24px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+.container7 .btn5{
+    position: relative;
+    left: -200px;
+    bottom: 0px;
+    background-color: #4aaaa5;
+    color: white;
+    font-size: 16px;
+    padding: 12px 24px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
 }
